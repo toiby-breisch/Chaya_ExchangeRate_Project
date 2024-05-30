@@ -1,6 +1,7 @@
 # Project Name
 
   Chaya Exchange Rate Project
+  
   Exchange rate project written in Python and React.
 
 ## Prerequisites
